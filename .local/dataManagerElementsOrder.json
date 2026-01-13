@@ -1,0 +1,116 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "outPut",
+        "URL",
+        "errCount",
+        "forProcessList",
+        "completeProcessList",
+        "errorList",
+        "taxType",
+        "fileRead",
+        "startTime",
+        "endTime",
+        "totalRuntime",
+        "filingPeriod",
+        "hasError",
+        "outPutGET",
+        "outPutTAT"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "processGET/getProcessor.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "startTime",
+        "endTime",
+        "totalRuntime",
+        "fileRead",
+        "URL",
+        "outPut",
+        "completeProcessList",
+        "errorList",
+        "hasError",
+        "outPutGET",
+        "outputTAT"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "csvProcessor/csvProcessor.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "forProcessList",
+        "completeProcessList",
+        "errorList",
+        "taxType",
+        "fileRead",
+        "filingPeriod"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "processTat/tatProcessor.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "startTime",
+        "endTime",
+        "fileRead",
+        "totalRuntime",
+        "URL",
+        "outPut",
+        "completeProcessList",
+        "errorList",
+        "hasError",
+        "outputGET",
+        "outputTAT"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ConfigLoader/ConfigLoader.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "outPut",
+        "URL",
+        "errCount",
+        "outPutGET",
+        "outPutTAT"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GlobalHandler.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "errorInfo",
+        "result"
+      ],
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

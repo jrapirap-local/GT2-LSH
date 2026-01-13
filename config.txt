@@ -1,0 +1,8 @@
+{
+
+	"dirPath" : "C:\\Users\\Admin\\Documents\\UiPath\\LHS EFiler\\",
+	"errorAllowedCount" : "3",
+	"masterError" : "No",
+	"URL" : "https:\/\/hitax.hawaii.gov\/_\/",
+	"outputPath" : "C:\\Users\\Admin\\Documents\\bitBucket\\Output\\downloader LSH\\"
+}  
